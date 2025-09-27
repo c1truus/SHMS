@@ -118,3 +118,5 @@ if(QT_VERSION_MAJOR EQUAL 6)
     qt_finalize_executable(SmartHealthcareSystem)
 endif()
 
+add_custom_target(run COMMAND ./SmartHealthcareSystem DEPENDS SmartHealthcareSystem WORKING_DIRECTORY ${CMAKE_BINARY_DIR})
+

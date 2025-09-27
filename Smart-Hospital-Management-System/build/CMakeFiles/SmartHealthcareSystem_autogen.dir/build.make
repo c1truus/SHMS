@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem
+CMAKE_SOURCE_DIR = /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build
+CMAKE_BINARY_DIR = /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build
 
 # Utility rule file for SmartHealthcareSystem_autogen.
 
@@ -71,9 +71,9 @@ CMakeFiles/SmartHealthcareSystem_autogen: SmartHealthcareSystem_autogen/timestam
 SmartHealthcareSystem_autogen/timestamp: /usr/lib/qt5/bin/moc
 SmartHealthcareSystem_autogen/timestamp: /usr/lib/qt5/bin/uic
 SmartHealthcareSystem_autogen/timestamp: CMakeFiles/SmartHealthcareSystem_autogen.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target SmartHealthcareSystem"
-	/usr/bin/cmake -E cmake_autogen /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles/SmartHealthcareSystem_autogen.dir/AutogenInfo.json ""
-	/usr/bin/cmake -E touch /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/SmartHealthcareSystem_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target SmartHealthcareSystem"
+	/usr/bin/cmake -E cmake_autogen /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles/SmartHealthcareSystem_autogen.dir/AutogenInfo.json ""
+	/usr/bin/cmake -E touch /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/SmartHealthcareSystem_autogen/timestamp
 
 SmartHealthcareSystem_autogen: CMakeFiles/SmartHealthcareSystem_autogen
 SmartHealthcareSystem_autogen: SmartHealthcareSystem_autogen/timestamp
@@ -89,6 +89,6 @@ CMakeFiles/SmartHealthcareSystem_autogen.dir/clean:
 .PHONY : CMakeFiles/SmartHealthcareSystem_autogen.dir/clean
 
 CMakeFiles/SmartHealthcareSystem_autogen.dir/depend:
-	cd /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles/SmartHealthcareSystem_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles/SmartHealthcareSystem_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/SmartHealthcareSystem_autogen.dir/depend
 

@@ -1,7 +1,7 @@
 CMakeFiles/SmartHealthcareSystem.dir/src/informationmanagementwindow.cpp.o: \
- /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/informationmanagementwindow.cpp \
+ /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/informationmanagementwindow.cpp \
  /usr/include/stdc-predef.h \
- /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/inc/informationmanagementwindow.h \
+ /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/inc/informationmanagementwindow.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QDialog \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qdialog.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtwidgetsglobal.h \
@@ -316,7 +316,7 @@ CMakeFiles/SmartHealthcareSystem.dir/src/informationmanagementwindow.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtabbar.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtabwidget.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qrubberband.h \
- /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/SmartHealthcareSystem_autogen/include/ui_informationmanagementwindow.h \
+ /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/SmartHealthcareSystem_autogen/include/ui_informationmanagementwindow.h \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QVariant \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qvariant.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QApplication \

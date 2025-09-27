@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem
+CMAKE_SOURCE_DIR = /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build
+CMAKE_BINARY_DIR = /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -132,9 +132,9 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -173,6 +173,19 @@ SmartHealthcareSystem: cmake_check_build_system
 SmartHealthcareSystem/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartHealthcareSystem.dir/build.make CMakeFiles/SmartHealthcareSystem.dir/build
 .PHONY : SmartHealthcareSystem/fast
+
+#=============================================================================
+# Target rules for targets named run
+
+# Build rule for target.
+run: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 run
+.PHONY : run
+
+# fast build rule for target.
+run/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/run.dir/build.make CMakeFiles/run.dir/build
+.PHONY : run/fast
 
 #=============================================================================
 # Target rules for targets named SmartHealthcareSystem_autogen_timestamp_deps
@@ -574,6 +587,7 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... SmartHealthcareSystem_autogen"
 	@echo "... SmartHealthcareSystem_autogen_timestamp_deps"
+	@echo "... run"
 	@echo "... SmartHealthcareSystem"
 	@echo "... SmartHealthcareSystem_autogen/mocs_compilation.o"
 	@echo "... SmartHealthcareSystem_autogen/mocs_compilation.i"

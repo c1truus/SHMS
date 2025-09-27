@@ -1,9 +1,9 @@
-/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/SmartHealthcareSystem_autogen/DIG64O274K/moc_patientwindow.cpp: /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/inc/patientwindow.h \
-  /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/SmartHealthcareSystem_autogen/moc_predefs.h \
-  /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/inc/appointmentswindow.h \
-  /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/inc/communicationwindow.h \
-  /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/inc/dbmanager.h \
-  /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/inc/editinfowindow.h \
+/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/SmartHealthcareSystem_autogen/DIG64O274K/moc_patientwindow.cpp: /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/inc/patientwindow.h \
+  /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/SmartHealthcareSystem_autogen/moc_predefs.h \
+  /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/inc/appointmentswindow.h \
+  /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/inc/communicationwindow.h \
+  /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/inc/dbmanager.h \
+  /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/inc/editinfowindow.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
   /usr/include/assert.h \

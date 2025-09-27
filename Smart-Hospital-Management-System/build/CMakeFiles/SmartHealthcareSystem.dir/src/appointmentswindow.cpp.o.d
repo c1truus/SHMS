@@ -1,7 +1,7 @@
 CMakeFiles/SmartHealthcareSystem.dir/src/appointmentswindow.cpp.o: \
- /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/appointmentswindow.cpp \
+ /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/appointmentswindow.cpp \
  /usr/include/stdc-predef.h \
- /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/inc/appointmentswindow.h \
+ /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/inc/appointmentswindow.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QDialog \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qdialog.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtwidgetsglobal.h \
@@ -291,7 +291,7 @@ CMakeFiles/SmartHealthcareSystem.dir/src/appointmentswindow.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qmap.h \
  /usr/include/c++/13/variant \
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qicon.h \
- /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/SmartHealthcareSystem_autogen/include/ui_appointmentswindow.h \
+ /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/SmartHealthcareSystem_autogen/include/ui_appointmentswindow.h \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QVariant \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qvariant.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QApplication \
@@ -335,7 +335,7 @@ CMakeFiles/SmartHealthcareSystem.dir/src/appointmentswindow.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QTableView \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtableview.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QTimeEdit \
- /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/inc/dbmanager.h \
+ /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/inc/dbmanager.h \
  /usr/include/x86_64-linux-gnu/qt5/QtSql/QSqlDatabase \
  /usr/include/x86_64-linux-gnu/qt5/QtSql/qsqldatabase.h \
  /usr/include/x86_64-linux-gnu/qt5/QtSql/qtsqlglobal.h \

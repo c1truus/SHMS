@@ -1,36 +1,36 @@
 SmartHealthcareSystem_autogen/timestamp: \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/CMakeLists.txt \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles/3.28.3/CMakeCXXCompiler.cmake \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles/3.28.3/CMakeSystem.cmake \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/SmartHealthcareSystem_autogen/moc_predefs.h \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/database/hospital.db \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/inc/appointmentswindow.h \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/inc/communicationwindow.h \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/inc/dbmanager.h \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/inc/diagnosiswindow.h \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/inc/doctorwindow.h \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/inc/editinfowindow.h \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/inc/healthassessmentwindow.h \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/inc/informationmanagementwindow.h \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/inc/loginwindow.h \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/inc/mainwindow.h \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/inc/patientwindow.h \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/inc/photouploadwindow.h \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/inc/registrationwindow.h \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/appointmentswindow.cpp \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/communicationwindow.cpp \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/dbmanager.cpp \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/diagnosiswindow.cpp \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/doctorwindow.cpp \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/editinfowindow.cpp \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/healthassessmentwindow.cpp \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/informationmanagementwindow.cpp \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/loginwindow.cpp \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/main.cpp \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/mainwindow.cpp \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/patientwindow.cpp \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/photouploadwindow.cpp \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/registrationwindow.cpp \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/CMakeLists.txt \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles/3.28.3/CMakeCXXCompiler.cmake \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles/3.28.3/CMakeSystem.cmake \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/SmartHealthcareSystem_autogen/moc_predefs.h \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/database/hospital.db \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/inc/appointmentswindow.h \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/inc/communicationwindow.h \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/inc/dbmanager.h \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/inc/diagnosiswindow.h \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/inc/doctorwindow.h \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/inc/editinfowindow.h \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/inc/healthassessmentwindow.h \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/inc/informationmanagementwindow.h \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/inc/loginwindow.h \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/inc/mainwindow.h \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/inc/patientwindow.h \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/inc/photouploadwindow.h \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/inc/registrationwindow.h \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/appointmentswindow.cpp \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/communicationwindow.cpp \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/dbmanager.cpp \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/diagnosiswindow.cpp \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/doctorwindow.cpp \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/editinfowindow.cpp \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/healthassessmentwindow.cpp \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/informationmanagementwindow.cpp \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/loginwindow.cpp \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/main.cpp \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/mainwindow.cpp \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/patientwindow.cpp \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/photouploadwindow.cpp \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/registrationwindow.cpp \
 	/usr/include/asm-generic/errno-base.h \
 	/usr/include/asm-generic/errno.h \
 	/usr/include/assert.h \
@@ -469,33 +469,92 @@ SmartHealthcareSystem_autogen/timestamp: \
 	/usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake \
 	/usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake \
 	/usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake \
+	/usr/share/cmake-3.28/Modules/CMakeCXXCompiler.cmake.in \
+	/usr/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp \
 	/usr/share/cmake-3.28/Modules/CMakeCXXInformation.cmake \
 	/usr/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake \
+	/usr/share/cmake-3.28/Modules/CMakeCompilerIdDetection.cmake \
+	/usr/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/CMakeDetermineCompileFeatures.cmake \
+	/usr/share/cmake-3.28/Modules/CMakeDetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake \
+	/usr/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake \
+	/usr/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake \
+	/usr/share/cmake-3.28/Modules/CMakeFindBinUtils.cmake \
 	/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake \
 	/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake \
 	/usr/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake \
 	/usr/share/cmake-3.28/Modules/CMakeParseArguments.cmake \
+	/usr/share/cmake-3.28/Modules/CMakeParseImplicitIncludeInfo.cmake \
+	/usr/share/cmake-3.28/Modules/CMakeParseImplicitLinkInfo.cmake \
+	/usr/share/cmake-3.28/Modules/CMakeParseLibraryArchitecture.cmake \
+	/usr/share/cmake-3.28/Modules/CMakeSystem.cmake.in \
 	/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake \
 	/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake \
+	/usr/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/CMakeTestCompilerCommon.cmake \
+	/usr/share/cmake-3.28/Modules/CMakeUnixFindMake.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/ADSP-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/ARMCC-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/ARMClang-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/AppleClang-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/Borland-DetermineCompiler.cmake \
 	/usr/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompilerInternal.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/Cray-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/CrayClang-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/Embarcadero-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/Fujitsu-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/GHS-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake \
 	/usr/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/GNU-FindBinUtils.cmake \
 	/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/HP-CXX-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/IAR-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/Intel-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/MSVC-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/NVHPC-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/NVIDIA-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/OrangeC-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/PGI-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/PathScale-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/SCO-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/TI-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/Tasking-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/Watcom-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/XL-CXX-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake \
+	/usr/share/cmake-3.28/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake \
 	/usr/share/cmake-3.28/Modules/GNUInstallDirs.cmake \
+	/usr/share/cmake-3.28/Modules/Internal/FeatureTesting.cmake \
+	/usr/share/cmake-3.28/Modules/Platform/Linux-Determine-CXX.cmake \
 	/usr/share/cmake-3.28/Modules/Platform/Linux-GNU-CXX.cmake \
 	/usr/share/cmake-3.28/Modules/Platform/Linux-GNU.cmake \
 	/usr/share/cmake-3.28/Modules/Platform/Linux-Initialize.cmake \
 	/usr/share/cmake-3.28/Modules/Platform/Linux.cmake \
 	/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/ui/appointmentswindow.ui \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/ui/communicationwindow.ui \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/ui/diagnosiswindow.ui \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/ui/doctorwindow.ui \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/ui/editinfowindow.ui \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/ui/healthassessmentwindow.ui \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/ui/informationmanagementwindow.ui \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/ui/loginwindow.ui \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/ui/mainwindow.ui \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/ui/patientwindow.ui \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/ui/photouploadwindow.ui \
-	/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/ui/registrationwindow.ui \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/ui/appointmentswindow.ui \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/ui/communicationwindow.ui \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/ui/diagnosiswindow.ui \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/ui/doctorwindow.ui \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/ui/editinfowindow.ui \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/ui/healthassessmentwindow.ui \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/ui/informationmanagementwindow.ui \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/ui/loginwindow.ui \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/ui/mainwindow.ui \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/ui/patientwindow.ui \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/ui/photouploadwindow.ui \
+	/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/ui/registrationwindow.ui \
 	/usr/bin/cmake

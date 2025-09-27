@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem
+CMAKE_SOURCE_DIR = /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build
+CMAKE_BINARY_DIR = /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/SmartHealthcareSystem.dir/depend.make
@@ -72,219 +72,219 @@ include CMakeFiles/SmartHealthcareSystem.dir/flags.make
 SmartHealthcareSystem_autogen/timestamp: /usr/lib/qt5/bin/moc
 SmartHealthcareSystem_autogen/timestamp: /usr/lib/qt5/bin/uic
 SmartHealthcareSystem_autogen/timestamp: CMakeFiles/SmartHealthcareSystem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target SmartHealthcareSystem"
-	/usr/bin/cmake -E cmake_autogen /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles/SmartHealthcareSystem_autogen.dir/AutogenInfo.json ""
-	/usr/bin/cmake -E touch /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/SmartHealthcareSystem_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target SmartHealthcareSystem"
+	/usr/bin/cmake -E cmake_autogen /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles/SmartHealthcareSystem_autogen.dir/AutogenInfo.json ""
+	/usr/bin/cmake -E touch /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/SmartHealthcareSystem_autogen/timestamp
 
 CMakeFiles/SmartHealthcareSystem.dir/SmartHealthcareSystem_autogen/mocs_compilation.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/flags.make
 CMakeFiles/SmartHealthcareSystem.dir/SmartHealthcareSystem_autogen/mocs_compilation.cpp.o: SmartHealthcareSystem_autogen/mocs_compilation.cpp
 CMakeFiles/SmartHealthcareSystem.dir/SmartHealthcareSystem_autogen/mocs_compilation.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/SmartHealthcareSystem_autogen/mocs_compilation.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/SmartHealthcareSystem_autogen/mocs_compilation.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/SmartHealthcareSystem_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/SmartHealthcareSystem_autogen/mocs_compilation.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/SmartHealthcareSystem_autogen/mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/SmartHealthcareSystem_autogen/mocs_compilation.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/SmartHealthcareSystem_autogen/mocs_compilation.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/SmartHealthcareSystem_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/SmartHealthcareSystem_autogen/mocs_compilation.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/SmartHealthcareSystem_autogen/mocs_compilation.cpp
 
 CMakeFiles/SmartHealthcareSystem.dir/SmartHealthcareSystem_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SmartHealthcareSystem.dir/SmartHealthcareSystem_autogen/mocs_compilation.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/SmartHealthcareSystem_autogen/mocs_compilation.cpp > CMakeFiles/SmartHealthcareSystem.dir/SmartHealthcareSystem_autogen/mocs_compilation.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/SmartHealthcareSystem_autogen/mocs_compilation.cpp > CMakeFiles/SmartHealthcareSystem.dir/SmartHealthcareSystem_autogen/mocs_compilation.cpp.i
 
 CMakeFiles/SmartHealthcareSystem.dir/SmartHealthcareSystem_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SmartHealthcareSystem.dir/SmartHealthcareSystem_autogen/mocs_compilation.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/SmartHealthcareSystem_autogen/mocs_compilation.cpp -o CMakeFiles/SmartHealthcareSystem.dir/SmartHealthcareSystem_autogen/mocs_compilation.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/SmartHealthcareSystem_autogen/mocs_compilation.cpp -o CMakeFiles/SmartHealthcareSystem.dir/SmartHealthcareSystem_autogen/mocs_compilation.cpp.s
 
 CMakeFiles/SmartHealthcareSystem.dir/src/main.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/flags.make
-CMakeFiles/SmartHealthcareSystem.dir/src/main.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/main.cpp
+CMakeFiles/SmartHealthcareSystem.dir/src/main.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/main.cpp
 CMakeFiles/SmartHealthcareSystem.dir/src/main.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/main.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/main.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/main.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/main.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/main.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/main.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/main.cpp
 
 CMakeFiles/SmartHealthcareSystem.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SmartHealthcareSystem.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/main.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/main.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/main.cpp.i
 
 CMakeFiles/SmartHealthcareSystem.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SmartHealthcareSystem.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/main.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/main.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/main.cpp.s
 
 CMakeFiles/SmartHealthcareSystem.dir/src/loginwindow.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/flags.make
-CMakeFiles/SmartHealthcareSystem.dir/src/loginwindow.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/loginwindow.cpp
+CMakeFiles/SmartHealthcareSystem.dir/src/loginwindow.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/loginwindow.cpp
 CMakeFiles/SmartHealthcareSystem.dir/src/loginwindow.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/loginwindow.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/loginwindow.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/loginwindow.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/loginwindow.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/loginwindow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/loginwindow.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/loginwindow.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/loginwindow.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/loginwindow.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/loginwindow.cpp
 
 CMakeFiles/SmartHealthcareSystem.dir/src/loginwindow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SmartHealthcareSystem.dir/src/loginwindow.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/loginwindow.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/loginwindow.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/loginwindow.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/loginwindow.cpp.i
 
 CMakeFiles/SmartHealthcareSystem.dir/src/loginwindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SmartHealthcareSystem.dir/src/loginwindow.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/loginwindow.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/loginwindow.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/loginwindow.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/loginwindow.cpp.s
 
 CMakeFiles/SmartHealthcareSystem.dir/src/mainwindow.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/flags.make
-CMakeFiles/SmartHealthcareSystem.dir/src/mainwindow.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/mainwindow.cpp
+CMakeFiles/SmartHealthcareSystem.dir/src/mainwindow.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/mainwindow.cpp
 CMakeFiles/SmartHealthcareSystem.dir/src/mainwindow.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/mainwindow.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/mainwindow.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/mainwindow.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/mainwindow.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/mainwindow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/mainwindow.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/mainwindow.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/mainwindow.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/mainwindow.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/mainwindow.cpp
 
 CMakeFiles/SmartHealthcareSystem.dir/src/mainwindow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SmartHealthcareSystem.dir/src/mainwindow.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/mainwindow.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/mainwindow.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/mainwindow.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/mainwindow.cpp.i
 
 CMakeFiles/SmartHealthcareSystem.dir/src/mainwindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SmartHealthcareSystem.dir/src/mainwindow.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/mainwindow.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/mainwindow.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/mainwindow.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/mainwindow.cpp.s
 
 CMakeFiles/SmartHealthcareSystem.dir/src/registrationwindow.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/flags.make
-CMakeFiles/SmartHealthcareSystem.dir/src/registrationwindow.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/registrationwindow.cpp
+CMakeFiles/SmartHealthcareSystem.dir/src/registrationwindow.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/registrationwindow.cpp
 CMakeFiles/SmartHealthcareSystem.dir/src/registrationwindow.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/registrationwindow.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/registrationwindow.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/registrationwindow.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/registrationwindow.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/registrationwindow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/registrationwindow.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/registrationwindow.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/registrationwindow.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/registrationwindow.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/registrationwindow.cpp
 
 CMakeFiles/SmartHealthcareSystem.dir/src/registrationwindow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SmartHealthcareSystem.dir/src/registrationwindow.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/registrationwindow.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/registrationwindow.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/registrationwindow.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/registrationwindow.cpp.i
 
 CMakeFiles/SmartHealthcareSystem.dir/src/registrationwindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SmartHealthcareSystem.dir/src/registrationwindow.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/registrationwindow.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/registrationwindow.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/registrationwindow.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/registrationwindow.cpp.s
 
 CMakeFiles/SmartHealthcareSystem.dir/src/patientwindow.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/flags.make
-CMakeFiles/SmartHealthcareSystem.dir/src/patientwindow.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/patientwindow.cpp
+CMakeFiles/SmartHealthcareSystem.dir/src/patientwindow.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/patientwindow.cpp
 CMakeFiles/SmartHealthcareSystem.dir/src/patientwindow.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/patientwindow.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/patientwindow.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/patientwindow.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/patientwindow.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/patientwindow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/patientwindow.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/patientwindow.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/patientwindow.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/patientwindow.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/patientwindow.cpp
 
 CMakeFiles/SmartHealthcareSystem.dir/src/patientwindow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SmartHealthcareSystem.dir/src/patientwindow.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/patientwindow.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/patientwindow.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/patientwindow.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/patientwindow.cpp.i
 
 CMakeFiles/SmartHealthcareSystem.dir/src/patientwindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SmartHealthcareSystem.dir/src/patientwindow.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/patientwindow.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/patientwindow.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/patientwindow.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/patientwindow.cpp.s
 
 CMakeFiles/SmartHealthcareSystem.dir/src/doctorwindow.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/flags.make
-CMakeFiles/SmartHealthcareSystem.dir/src/doctorwindow.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/doctorwindow.cpp
+CMakeFiles/SmartHealthcareSystem.dir/src/doctorwindow.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/doctorwindow.cpp
 CMakeFiles/SmartHealthcareSystem.dir/src/doctorwindow.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/doctorwindow.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/doctorwindow.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/doctorwindow.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/doctorwindow.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/doctorwindow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/doctorwindow.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/doctorwindow.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/doctorwindow.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/doctorwindow.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/doctorwindow.cpp
 
 CMakeFiles/SmartHealthcareSystem.dir/src/doctorwindow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SmartHealthcareSystem.dir/src/doctorwindow.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/doctorwindow.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/doctorwindow.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/doctorwindow.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/doctorwindow.cpp.i
 
 CMakeFiles/SmartHealthcareSystem.dir/src/doctorwindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SmartHealthcareSystem.dir/src/doctorwindow.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/doctorwindow.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/doctorwindow.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/doctorwindow.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/doctorwindow.cpp.s
 
 CMakeFiles/SmartHealthcareSystem.dir/src/healthassessmentwindow.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/flags.make
-CMakeFiles/SmartHealthcareSystem.dir/src/healthassessmentwindow.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/healthassessmentwindow.cpp
+CMakeFiles/SmartHealthcareSystem.dir/src/healthassessmentwindow.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/healthassessmentwindow.cpp
 CMakeFiles/SmartHealthcareSystem.dir/src/healthassessmentwindow.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/healthassessmentwindow.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/healthassessmentwindow.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/healthassessmentwindow.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/healthassessmentwindow.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/healthassessmentwindow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/healthassessmentwindow.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/healthassessmentwindow.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/healthassessmentwindow.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/healthassessmentwindow.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/healthassessmentwindow.cpp
 
 CMakeFiles/SmartHealthcareSystem.dir/src/healthassessmentwindow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SmartHealthcareSystem.dir/src/healthassessmentwindow.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/healthassessmentwindow.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/healthassessmentwindow.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/healthassessmentwindow.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/healthassessmentwindow.cpp.i
 
 CMakeFiles/SmartHealthcareSystem.dir/src/healthassessmentwindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SmartHealthcareSystem.dir/src/healthassessmentwindow.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/healthassessmentwindow.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/healthassessmentwindow.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/healthassessmentwindow.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/healthassessmentwindow.cpp.s
 
 CMakeFiles/SmartHealthcareSystem.dir/src/communicationwindow.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/flags.make
-CMakeFiles/SmartHealthcareSystem.dir/src/communicationwindow.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/communicationwindow.cpp
+CMakeFiles/SmartHealthcareSystem.dir/src/communicationwindow.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/communicationwindow.cpp
 CMakeFiles/SmartHealthcareSystem.dir/src/communicationwindow.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/communicationwindow.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/communicationwindow.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/communicationwindow.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/communicationwindow.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/communicationwindow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/communicationwindow.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/communicationwindow.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/communicationwindow.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/communicationwindow.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/communicationwindow.cpp
 
 CMakeFiles/SmartHealthcareSystem.dir/src/communicationwindow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SmartHealthcareSystem.dir/src/communicationwindow.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/communicationwindow.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/communicationwindow.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/communicationwindow.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/communicationwindow.cpp.i
 
 CMakeFiles/SmartHealthcareSystem.dir/src/communicationwindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SmartHealthcareSystem.dir/src/communicationwindow.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/communicationwindow.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/communicationwindow.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/communicationwindow.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/communicationwindow.cpp.s
 
 CMakeFiles/SmartHealthcareSystem.dir/src/informationmanagementwindow.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/flags.make
-CMakeFiles/SmartHealthcareSystem.dir/src/informationmanagementwindow.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/informationmanagementwindow.cpp
+CMakeFiles/SmartHealthcareSystem.dir/src/informationmanagementwindow.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/informationmanagementwindow.cpp
 CMakeFiles/SmartHealthcareSystem.dir/src/informationmanagementwindow.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/informationmanagementwindow.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/informationmanagementwindow.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/informationmanagementwindow.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/informationmanagementwindow.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/informationmanagementwindow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/informationmanagementwindow.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/informationmanagementwindow.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/informationmanagementwindow.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/informationmanagementwindow.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/informationmanagementwindow.cpp
 
 CMakeFiles/SmartHealthcareSystem.dir/src/informationmanagementwindow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SmartHealthcareSystem.dir/src/informationmanagementwindow.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/informationmanagementwindow.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/informationmanagementwindow.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/informationmanagementwindow.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/informationmanagementwindow.cpp.i
 
 CMakeFiles/SmartHealthcareSystem.dir/src/informationmanagementwindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SmartHealthcareSystem.dir/src/informationmanagementwindow.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/informationmanagementwindow.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/informationmanagementwindow.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/informationmanagementwindow.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/informationmanagementwindow.cpp.s
 
 CMakeFiles/SmartHealthcareSystem.dir/src/diagnosiswindow.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/flags.make
-CMakeFiles/SmartHealthcareSystem.dir/src/diagnosiswindow.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/diagnosiswindow.cpp
+CMakeFiles/SmartHealthcareSystem.dir/src/diagnosiswindow.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/diagnosiswindow.cpp
 CMakeFiles/SmartHealthcareSystem.dir/src/diagnosiswindow.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/diagnosiswindow.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/diagnosiswindow.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/diagnosiswindow.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/diagnosiswindow.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/diagnosiswindow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/diagnosiswindow.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/diagnosiswindow.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/diagnosiswindow.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/diagnosiswindow.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/diagnosiswindow.cpp
 
 CMakeFiles/SmartHealthcareSystem.dir/src/diagnosiswindow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SmartHealthcareSystem.dir/src/diagnosiswindow.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/diagnosiswindow.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/diagnosiswindow.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/diagnosiswindow.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/diagnosiswindow.cpp.i
 
 CMakeFiles/SmartHealthcareSystem.dir/src/diagnosiswindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SmartHealthcareSystem.dir/src/diagnosiswindow.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/diagnosiswindow.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/diagnosiswindow.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/diagnosiswindow.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/diagnosiswindow.cpp.s
 
 CMakeFiles/SmartHealthcareSystem.dir/src/photouploadwindow.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/flags.make
-CMakeFiles/SmartHealthcareSystem.dir/src/photouploadwindow.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/photouploadwindow.cpp
+CMakeFiles/SmartHealthcareSystem.dir/src/photouploadwindow.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/photouploadwindow.cpp
 CMakeFiles/SmartHealthcareSystem.dir/src/photouploadwindow.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/photouploadwindow.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/photouploadwindow.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/photouploadwindow.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/photouploadwindow.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/photouploadwindow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/photouploadwindow.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/photouploadwindow.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/photouploadwindow.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/photouploadwindow.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/photouploadwindow.cpp
 
 CMakeFiles/SmartHealthcareSystem.dir/src/photouploadwindow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SmartHealthcareSystem.dir/src/photouploadwindow.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/photouploadwindow.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/photouploadwindow.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/photouploadwindow.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/photouploadwindow.cpp.i
 
 CMakeFiles/SmartHealthcareSystem.dir/src/photouploadwindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SmartHealthcareSystem.dir/src/photouploadwindow.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/photouploadwindow.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/photouploadwindow.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/photouploadwindow.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/photouploadwindow.cpp.s
 
 CMakeFiles/SmartHealthcareSystem.dir/src/editinfowindow.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/flags.make
-CMakeFiles/SmartHealthcareSystem.dir/src/editinfowindow.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/editinfowindow.cpp
+CMakeFiles/SmartHealthcareSystem.dir/src/editinfowindow.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/editinfowindow.cpp
 CMakeFiles/SmartHealthcareSystem.dir/src/editinfowindow.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/editinfowindow.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/editinfowindow.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/editinfowindow.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/editinfowindow.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/editinfowindow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/editinfowindow.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/editinfowindow.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/editinfowindow.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/editinfowindow.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/editinfowindow.cpp
 
 CMakeFiles/SmartHealthcareSystem.dir/src/editinfowindow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SmartHealthcareSystem.dir/src/editinfowindow.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/editinfowindow.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/editinfowindow.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/editinfowindow.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/editinfowindow.cpp.i
 
 CMakeFiles/SmartHealthcareSystem.dir/src/editinfowindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SmartHealthcareSystem.dir/src/editinfowindow.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/editinfowindow.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/editinfowindow.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/editinfowindow.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/editinfowindow.cpp.s
 
 CMakeFiles/SmartHealthcareSystem.dir/src/appointmentswindow.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/flags.make
-CMakeFiles/SmartHealthcareSystem.dir/src/appointmentswindow.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/appointmentswindow.cpp
+CMakeFiles/SmartHealthcareSystem.dir/src/appointmentswindow.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/appointmentswindow.cpp
 CMakeFiles/SmartHealthcareSystem.dir/src/appointmentswindow.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/appointmentswindow.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/appointmentswindow.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/appointmentswindow.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/appointmentswindow.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/appointmentswindow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/appointmentswindow.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/appointmentswindow.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/appointmentswindow.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/appointmentswindow.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/appointmentswindow.cpp
 
 CMakeFiles/SmartHealthcareSystem.dir/src/appointmentswindow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SmartHealthcareSystem.dir/src/appointmentswindow.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/appointmentswindow.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/appointmentswindow.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/appointmentswindow.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/appointmentswindow.cpp.i
 
 CMakeFiles/SmartHealthcareSystem.dir/src/appointmentswindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SmartHealthcareSystem.dir/src/appointmentswindow.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/appointmentswindow.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/appointmentswindow.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/appointmentswindow.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/appointmentswindow.cpp.s
 
 CMakeFiles/SmartHealthcareSystem.dir/src/dbmanager.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/flags.make
-CMakeFiles/SmartHealthcareSystem.dir/src/dbmanager.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/dbmanager.cpp
+CMakeFiles/SmartHealthcareSystem.dir/src/dbmanager.cpp.o: /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/dbmanager.cpp
 CMakeFiles/SmartHealthcareSystem.dir/src/dbmanager.cpp.o: CMakeFiles/SmartHealthcareSystem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/dbmanager.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/dbmanager.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/dbmanager.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/dbmanager.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/dbmanager.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/SmartHealthcareSystem.dir/src/dbmanager.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHealthcareSystem.dir/src/dbmanager.cpp.o -MF CMakeFiles/SmartHealthcareSystem.dir/src/dbmanager.cpp.o.d -o CMakeFiles/SmartHealthcareSystem.dir/src/dbmanager.cpp.o -c /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/dbmanager.cpp
 
 CMakeFiles/SmartHealthcareSystem.dir/src/dbmanager.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SmartHealthcareSystem.dir/src/dbmanager.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/dbmanager.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/dbmanager.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/dbmanager.cpp > CMakeFiles/SmartHealthcareSystem.dir/src/dbmanager.cpp.i
 
 CMakeFiles/SmartHealthcareSystem.dir/src/dbmanager.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SmartHealthcareSystem.dir/src/dbmanager.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/src/dbmanager.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/dbmanager.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/src/dbmanager.cpp -o CMakeFiles/SmartHealthcareSystem.dir/src/dbmanager.cpp.s
 
 # Object files for target SmartHealthcareSystem
 SmartHealthcareSystem_OBJECTS = \
@@ -328,7 +328,7 @@ SmartHealthcareSystem: /usr/lib/x86_64-linux-gnu/libQt5Sql.so.5.15.13
 SmartHealthcareSystem: /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.13
 SmartHealthcareSystem: /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.13
 SmartHealthcareSystem: CMakeFiles/SmartHealthcareSystem.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX executable SmartHealthcareSystem"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX executable SmartHealthcareSystem"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/SmartHealthcareSystem.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -340,6 +340,6 @@ CMakeFiles/SmartHealthcareSystem.dir/clean:
 .PHONY : CMakeFiles/SmartHealthcareSystem.dir/clean
 
 CMakeFiles/SmartHealthcareSystem.dir/depend: SmartHealthcareSystem_autogen/timestamp
-	cd /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles/SmartHealthcareSystem.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles/SmartHealthcareSystem.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/SmartHealthcareSystem.dir/depend
 

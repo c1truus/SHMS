@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem
+CMAKE_SOURCE_DIR = /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build
+CMAKE_BINARY_DIR = /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build
 
 # Utility rule file for SmartHealthcareSystem_autogen_timestamp_deps.
 
@@ -67,9 +67,9 @@ include CMakeFiles/SmartHealthcareSystem_autogen_timestamp_deps.dir/compiler_dep
 include CMakeFiles/SmartHealthcareSystem_autogen_timestamp_deps.dir/progress.make
 
 CMakeFiles/SmartHealthcareSystem_autogen_timestamp_deps: /usr/lib/qt5/bin/uic
-CMakeFiles/SmartHealthcareSystem_autogen_timestamp_deps: /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.13
 CMakeFiles/SmartHealthcareSystem_autogen_timestamp_deps: /usr/lib/x86_64-linux-gnu/libQt5Sql.so.5.15.13
 CMakeFiles/SmartHealthcareSystem_autogen_timestamp_deps: /usr/lib/qt5/bin/moc
+CMakeFiles/SmartHealthcareSystem_autogen_timestamp_deps: /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.13
 
 SmartHealthcareSystem_autogen_timestamp_deps: CMakeFiles/SmartHealthcareSystem_autogen_timestamp_deps
 SmartHealthcareSystem_autogen_timestamp_deps: CMakeFiles/SmartHealthcareSystem_autogen_timestamp_deps.dir/build.make
@@ -84,6 +84,6 @@ CMakeFiles/SmartHealthcareSystem_autogen_timestamp_deps.dir/clean:
 .PHONY : CMakeFiles/SmartHealthcareSystem_autogen_timestamp_deps.dir/clean
 
 CMakeFiles/SmartHealthcareSystem_autogen_timestamp_deps.dir/depend:
-	cd /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build /media/turu/Vault0/BIT_projects_/Projects/SHMS/SHMS/SmartHealthcareSystem/build/CMakeFiles/SmartHealthcareSystem_autogen_timestamp_deps.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build /media/turu/Vault0/BIT_projects_/Projects/SHMS-QT/SHMS/Smart-Hospital-Management-System/build/CMakeFiles/SmartHealthcareSystem_autogen_timestamp_deps.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/SmartHealthcareSystem_autogen_timestamp_deps.dir/depend
 
