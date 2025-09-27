@@ -142,11 +142,9 @@ The database is minimally populated with essential tables and admin user. Full p
 ```
 ## 🤝 Contributions
 
-Gigachad Malaysian Students Who are the :
+Gigachad Malaysian Students Who are the devs behind all of this project:
 * https://github.com/blueblack6712  
 * https://github.com/low0028
-
-They are the developer responsible for this project to be 
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
