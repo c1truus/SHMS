@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+4ab921440833f230fd1a477e083becfd CMakeFiles/SmartHealthcareSystem_autogen
+4ab921440833f230fd1a477e083becfd CMakeFiles/SmartHealthcareSystem_autogen_timestamp_deps
+fc6cc9d4fdfec923c9cb6132c5fce5b5 SmartHealthcareSystem_autogen/timestamp
