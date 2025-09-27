@@ -1,6 +1,3 @@
-Here's a dramatically improved version of your README.md:
-
-```markdown
 # Smart Hospital Management System (SHMS)
 
 A comprehensive Qt-based Hospital Management System designed to streamline healthcare operations with an intuitive graphical interface.
